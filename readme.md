@@ -1,4 +1,4 @@
-# Python Chatbot
+# Talkitron Chatbot
 
 This repository contains a Django project that integrates a chatbot functionality using AIML and Pytholog, and also utilizes the OpenAI GPT-3.5 model for generating responses.
 
