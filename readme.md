@@ -43,3 +43,6 @@ This repository contains a Django project that integrates a chatbot functionalit
 
 ## Contributing
 Contributions to this repository are welcome. If you find any issues or have suggestions for improvements, please create a new issue or submit a pull request.
+
+****
+**Special Thanks to [Pemma](https://pemagrg.medium.com/) for chat pattern and aiml files.**
