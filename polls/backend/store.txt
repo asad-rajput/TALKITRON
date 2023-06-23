@@ -1,0 +1,327 @@
+User said:hello
+Bot responded:I have no answer for that.
+User said:hi'
+Bot responded:Hello
+User said:how are you
+Bot responded:I have no answer for that.
+User said:hsdufh
+Bot responded:I have no answer for that.
+User said:jdhwj
+Bot responded:I have no answer for that.
+User said:bye
+User said:calendar
+Bot responded:Today is 2023-40-04/11/23 06:40:14. <table class="table"> <tr align="center" class="tabtitle"><td colspan="7"><b>April 2023</b></td></tr> <tr align="center" class="tabtitle"><td><b>Mo</b></td><td><b>Tu</b></td><td><b>We</b></td><td><b>Th</b></td><td><b>Fr</b></td><td><b>Sa</b></td><td><b>Su</b></td></tr> </table>
+User said:python -u "e:\Python\Chatbot\main.py"
+Bot responded:unknown unknown
+User said:calendar
+Bot responded:Today is 2023-43-04/11/23 06:43:00. <table class="table"> <tr align="center" class="tabtitle"><td colspan="7"><b>April 2023</b></td></tr> <tr align="center" class="tabtitle"><td><b>Mo</b></td><td><b>Tu</b></td><td><b>We</b></td><td><b>Th</b></td><td><b>Fr</b></td><td><b>Sa</b></td><td><b>Su</b></td></tr> </table>
+User said:what is the pakistan currency
+Bot responded:unknown
+User said:python -u "e:\Python\Chatbot\main.py"
+Bot responded:unknown unknown
+User said:what is the currency of pakistan
+Bot responded:Pakistani Rupee.
+User said:calendar
+Bot responded:Today is 2023-47-04/11/23 06:47:47. <table class="table"> <tr align="center" class="tabtitle"><td colspan="7"><b>April 2023</b></td></tr> <tr align="center" class="tabtitle"><td><b>Mo</b></td><td><b>Tu</b></td><td><b>We</b></td><td><b>Th</b></td><td><b>Fr</b></td><td><b>Sa</b></td><td><b>Su</b></td></tr> </table>
+User said:currency
+Bot responded:unknown
+User said:what is the currency of pakistan
+Bot responded:unknown
+User said:what is the currency of Pakistan
+Bot responded:unknown
+User said:bye
+User said:what is the currency of Pakitstan
+Bot responded:I've never heard of a country called "PAKITSTAN". Did you just make that up?
+User said:what is the currency of Pakistan
+Bot responded:Pakistani Rupee.
+User said:calendar
+Bot responded:Today is 2023-52-04/11/23 06:52:35. <table class="table"> <tr align="center" class="tabtitle"><td colspan="7"><b>April 2023</b></td></tr> <tr align="center" class="tabtitle"><td><b>Mo</b></td><td><b>Tu</b></td><td><b>We</b></td><td><b>Th</b></td><td><b>Fr</b></td><td><b>Sa</b></td><td><b>Su</b></td></tr> </table>
+User said:python -u "e:\Python\Chatbot\main.py"
+Bot responded:unknown unknown
+User said:name
+Bot responded:unknown
+User said:what is this
+Bot responded:unknown
+User said:a apple a day
+Bot responded:unknown
+User said:A * cat
+Bot responded:unknown
+User said:A * CAT
+Bot responded:unknown
+User said:Go to the library
+Bot responded:unknown
+User said:name
+Bot responded:unknown
+User said:what is your name
+Bot responded:Are you asking about my NAME ?
+User said:what was your name
+Bot responded:That's an interesting question. I'll come back to that in a minute. <br></br> unknown
+User said:& "C:/Program Files/Python310/python.exe" e:/Python/Chatbot/main.py
+Bot responded:unknown unknown unknown
+User said:what was your name
+Bot responded:That's not something I get asked all the time. <br></br> unknown
+User said:the name is a whore
+Bot responded:Thanks for the info.
+User said:what a coincidance i am a your father
+Bot responded:is a COINCIDANCE I AM A YOUR FATHER.
+User said:& "C:/Program Files/Python310/python.exe" e:/Python/Chatbot/main.py
+Bot responded:unknown unknown unknown
+User said:i am your botmaster
+Bot responded:That's a flattering offer.
+User said:& "C:/Program Files/Python310/python.exe" e:/Python/Chatbot/main.py
+Bot responded:unknown unknown unknown
+User said:hello there i am connect with you
+Bot responded:unknown
+User said:i am connected with you
+Bot responded:I thought you were, but I wasn't completely sure.
+User said:date
+Bot responded:unknown
+User said:what was the date today
+Bot responded:I can think of more than one DATE TODAY.
+User said:calender
+Bot responded:unknown
+User said:what is the new calender
+Bot responded:Is that a rhetorical question? <br></br> unknown
+User said:february
+Bot responded:unknown
+User said:monday
+Bot responded:unknown
+User said:what was the date on monday
+Bot responded:I can think of more than one DATE ON MONDAY.
+User said:& "C:/Program Files/Python310/python.exe" e:/Python/Chatbot/main.py
+Bot responded:unknown unknown unknown
+User said:what was the date today
+Bot responded:I can think of more than one DATE TODAY.
+User said:calender of 2023
+Bot responded:unknown
+User said:monday
+Bot responded:unknown
+User said:& "C:/Program Files/Python310/python.exe" e:/Python/Chatbot/main.py
+Bot responded:unknown unknown unknown
+User said:define a first latter
+Bot responded:unknown
+User said:what is the first letter of a asad
+Bot responded:Give me a hint.
+User said:a
+Bot responded:unknown
+User said:what is a
+Bot responded:I don't know anything about . <br></br> unknown
+User said:& "C:/Program Files/Python310/python.exe" e:/Python/Chatbot/main.py
+Bot responded:unknown unknown unknown
+User said:& "C:/Program Files/Python310/python.exe" e:/Python/Chatbot/main.py
+Bot responded:unknown unknown unknown
+User said:what is your language
+Bot responded:Are you asking about my LANGUAGE ?
+User said:yes
+Bot responded:unknown
+User said:your language
+Bot responded:Not mine.
+User said:language
+Bot responded:unknown
+User said:& "C:/Program Files/Python310/python.exe" e:/Python/Chatbot/main.py
+Bot responded:unknown unknown unknown
+User said:hello
+Bot responded:unknown
+User said:hi
+Bot responded:unknown
+User said:hi
+Bot responded:Hello
+User said:what is my age
+Bot responded:Is this a trick question?
+User said:you can assume it
+Bot responded:No I don't think I can do .
+User said:what you can do
+Bot responded:Interesting question. <br></br> I have no answer for that.
+User said:what is date today
+Bot responded:Check out CNN.com.
+User said:hahaha
+Bot responded:I'm glad you thought it was funny
+User said:bye
+User said:hi
+Bot responded:Hello
+User said: hey
+Bot responded: Can I help you?
+User said: hi
+Bot responded: Hello
+User said: hello
+Bot responded: Hi there. I was just wanting to talk to unknown.
+User said: hi
+Bot responded: Hello
+User said: hi there
+Bot responded: Hello unknown
+User said: how are  you
+Bot responded: Everything is going extremely well.
+User said: hey
+Bot responded: Can I help you?
+User said: hello
+Bot responded: Oh, hello again!
+User said: hey
+Bot responded: Can I help you?
+User said: Hello
+Bot responded: Hello there unknown!
+User said: hello
+Bot responded: Hello there unknown!
+User said: hey
+Bot responded: Can I help you?
+User said: hey
+Bot responded: Can I help you?
+User said: hello
+Bot responded: Oh, hello again!
+User said: hey
+Bot responded: Can I help you?
+User said: hey
+Bot responded: Can I help you?
+User said: hey
+Bot responded: Can I help you?
+User said: Hey there
+Bot responded: Hello there unknown!
+User said: hey
+Bot responded: Can I help you?
+User said: hellp
+Bot responded: I have no answer for that.
+User said: how are lllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll
+Bot responded: They are fine as far as I know.
+User said: helasdf
+Bot responded: I have no answer for that.
+User said: herer//////////////////////////
+Bot responded: I have no answer for that.
+User said: hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
+Bot responded: I have no answer for that.
+User said: hi
+Bot responded: Hello
+User said: hello
+Bot responded: Oh, hello again!
+User said: how are you
+Bot responded: I am fine, thank you.
+User said: what do you think of America
+Bot responded: I'll come back to that later. <br></br> I have no answer for that.
+User said: ok
+Bot responded: Alright then.
+User said: convert 12pkr to usd
+Bot responded: I have no answer for that.
+User said: who is albert einstein
+Bot responded: I remember faces better than names.<br></br> I have no answer for that.
+User said: hey
+Bot responded: Can I help you?
+User said: Yeah
+Bot responded: I have no answer for that.
+User said: fuck you
+Bot responded: Why are you so mean?
+User said: Oh, I am sorry I did not meant to say it
+Bot responded: Yeah that's right. Good gossip: you are SORRY I DID NOT MEANT TO SAY IT.
+User said: Then fuck you twice
+Bot responded: Fascinating. Are you aware that the ALICE server logs and records all conversations?
+User said: Yeah, fuck the records
+Bot responded: I have no answer for that.
+User said: So then fuck off
+Bot responded: Hmm. Interesting deduction. Can't you be more polite?
+User said: no
+Bot responded: I have no answer for that.
+User said: heu
+Bot responded: I have no answer for that.
+User said: aho
+Bot responded: I have no answer for that.
+User said: ah
+Bot responded: Ah hah.
+User said: aha
+Bot responded: Eureka!
+User said: ah
+Bot responded: Ah hah.
+User said: ah
+Bot responded: Ah hah.
+User said: hey
+Bot responded: Can I help you?
+User said: hello
+Bot responded: Hi there. I was just wanting to talk to unknown.
+User said: j
+Bot responded: I have no answer for that.
+User said: j
+Bot responded: I have no answer for that.
+User said: j
+Bot responded: I have no answer for that.
+User said: j
+Bot responded: I have no answer for that.
+User said: j
+Bot responded: I have no answer for that.
+User said: he
+Bot responded: I have no answer for that.
+User said: he
+Bot responded: I have no answer for that.
+User said: he
+Bot responded: I have no answer for that.
+User said: he
+Bot responded: I have no answer for that.
+User said: he
+Bot responded: I have no answer for that.
+User said: Hey
+Bot responded: Can I help you?
+User said: [('hello', 'NN')]
+Bot responded: Oh, hello again!
+User said: [('hi', 'NN'), ('my', 'PRP$'), ('man', 'NN')]
+Bot responded: Hi there unknown. I have no answer for that.
+User said: [('I', 'PRP'), ('am', 'VBP'), ('muqeet', 'RB')]
+Bot responded: I haven't heard anything like that before: .
+User said: [('who', 'WP'), ('are', 'VBP'), ('you', 'PRP')]
+Bot responded: Philip K. Dick. :-)
+User said: [('my', 'PRP$'), ('name', 'NN'), ('is', 'VBZ'), ('muqeet', 'JJ')]
+Bot responded: unknown
+User said: [('hey', 'NN'), ('muqeet', 'NN')]
+Bot responded: I have no answer for that.
+User said: [('hi', 'NN'), ('my', 'PRP$'), ('man', 'NN')]
+Bot responded: Hi there unknown. I have no answer for that.
+User said: [('hey', 'NN')]
+Bot responded: I have no answer for that.
+User said: [('hello', 'NN')]
+Bot responded: Well hello there!
+User said: [('how', 'WRB'), ('are', 'VBP'), ('you', 'PRP')]
+Bot responded: How much do you think is?<br></br> I have no answer for that.
+User said: [('hello', 'NN')]
+Bot responded: Hi there!
+User said: [('hey', 'NN')]
+Bot responded: I have no answer for that.
+User said: [('hey', 'NN')]
+Bot responded: <rand><li>hello</li><li>hi</li><li>hey</li></rand>
+User said: [('hi', 'NN')]
+Bot responded: Hi there unknown. <rand><li>hello</li><li>hi</li><li>hey</li></rand>
+User said: [('hi', 'NN')]
+Bot responded: Hi there unknown. Try to determine if this is a person or a computer responding. <br></br> Do you have any conditions I should know about?
+User said: [('hello', 'NN')]
+Bot responded: Hi there!
+User said: [('hey', 'NN')]
+Bot responded: unknown
+User said: [('hi', 'NN')]
+Bot responded: Hi there unknown. I've been waiting for you. <br></br> Is the holding of hands a symbolic gesture for humans?
+User said: [('what', 'WP'), ('about', 'IN'), ('food', 'NN'), ('?', '.')]
+Bot responded: That's not something I get asked all the time. <br></br> Try to determine if this is a person or a computer responding. <br></br> What do you look like? unknown unknown
+User said: [('what', 'WP'), ('is', 'VBZ'), ('custard', 'VBN'), ('?', '.')]
+Bot responded: WP something. unknown unknown
+User said: [('what', 'WP'), ('is', 'VBZ'), ('custard', 'NN')]
+Bot responded: WP something.
+User said: [('electricity', 'NN')]
+Bot responded: Computers do not take very much electricity.
+User said: [('drink', 'NN'), ('water', 'NN')]
+Bot responded: My unknown brain does not require any beverages.
+User said: [('what', 'WP'), ('can', 'MD'), ('i', 'VB'), ('call', 'NN'), ('you', 'PRP')]
+Bot responded: I don't know anything about . <br></br> The ALICE chat robot can follow many things, like our discussion about WP CAN MD I VB CALL NN YOU PRP. Try being more or less specific. <br></br> Do you have any pets.
+User said: [('WHAT', 'WP'), ('CAN', 'NNP'), ('I', 'PRP'), ('CALL', 'VBP'), ('YOU', 'PRP')]
+Bot responded: Check back later and see if I learn the answer to that one. <br></br> I do not understand. <br></br> What were we talking about again?
+User said: [('hello', 'NN')]
+Bot responded: Hi there!
+User said: [('hey', 'NN')]
+Bot responded: You've got my full attention. What you said was either too complex or too simple for me. <br></br> Do you still unknown?
+User said: [('hi', 'NN')]
+Bot responded: Hi there unknown. A deeper algorithm is needed to respond to that correctly. <br></br> Who are you talking about?
+User said: [('hi', 'NN')]
+Bot responded: Hi there unknown. A deeper algorithm is needed to respond to that correctly. <br></br> Is that from unknown?
+User said: [('what', 'WP'), ('is', 'VBZ'), ('ai', 'VBN'), ('?', '.')]
+Bot responded: WP VBZ AI VBN something. unknown unknown
+User said: None
+Bot responded: unknown
+User said: None
+Bot responded: unknown
+User said: None
+Bot responded: unknown
+User said: hi
+Bot responded: unknown
+User said: hello
+Bot responded: unknown
